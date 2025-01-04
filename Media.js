@@ -4,7 +4,7 @@ import LinkedIn from "./imag/linkedin.svg";
 import Instagram from "./imag/instagram.svg";
 import Snapchat from "./imag/snap.png";
 import Github from "./imag/git.png";
-export class Media extends Sociallink{
+export class Media extends Sociallink{ 
     render(){
         return(
             <>
