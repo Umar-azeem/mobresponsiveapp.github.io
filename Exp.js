@@ -5,7 +5,7 @@ export function Exp() {
   console.log("test-check",getValue)
   return (
     <>
-      <section className="bg-slate-200 ">
+      <section className="bg-slate-200 "> 
         <div className="  bg-slate-200  py-10">
           <div className="flex flex-col center justify-center">
             <h6  className="text-gray-500 text-center text-sm">FEATURES</h6>
